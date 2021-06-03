@@ -645,12 +645,13 @@ h3,
 h4,
 h5,
 h6,
+p,
 label,
 .btn,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #f0f0f0!important;
+    color: #575757!important;
 }
 
 .container {
@@ -676,8 +677,7 @@ a {
 }
 
 p {
-    font-size: 12px;
-    color: black;
+    font-size: 11px;
 }
 
 .tight-width-whitespace {
@@ -692,7 +692,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #1A1A1A!important;
+    color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -767,37 +767,37 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #B2BBDC;
+    background-color: #364577;
 }
 
 .bgc-atomic-tangerine {
-    background-color: #0C101C;
+    background-color: #F3976C;
 }
 
 .tc-white {
-    color: #511C06!important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
-    background:#B9440E;
-    color: #ffffff!important;
+    background: #F3976C;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #1C1C1C!important;
+    color: #FFFFFF!important;
 }
 
 .ltc-white {
-    color: #1C1C1C!important;
+    color: #FFFFFF!important;
 }
 
 .ltc-white:hover {
-    color: #545454!important;
+    color: #cccccc!important;
 }
 
 .ltc-atomic-tangerine {
-    color: #4B1C07!important;
+    color: #F3976C!important;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -805,8 +805,8 @@ h4 {
 }
 
 .icon-dark-slate-blue {
-    color: #A4B0D6!important;
-    border-color: #A4B0D6!important;
+    color: #364577!important;
+    border-color: #364577!important;
 }
 
 .bg-dots-bg {
