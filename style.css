@@ -1047,16 +1047,16 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
-    .bloc-mob-center-text {
-        text-align: center;
-    }
+  
     .col-xs-12 img{
-        max-width: 100%;
+    max-width: 100%;
 	height: auto;
+    object-fit: cover;
     }
     .col-sm-12 img{
     max-width: 100%;
 	height: auto;
+    object-fit: cover;
     }
     
 }
